@@ -1,0 +1,17 @@
+h1{
+    font-size: 60px;
+    color: rgb(0, 0,0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+hr{
+    width: 50%;
+    height: 10px;
+    background: green;
+}
+
+p{
+    width: 50%;
+    margin: auto;
+}
