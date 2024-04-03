@@ -1,0 +1,53 @@
+body{
+    height: 100vh;
+    background: linear-gradient(pink, darkblue);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.central{
+    width: 400px;
+    height: 350px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 3px 3px 8px rgb(68, 68, 68);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.central p{
+    font-size: 25px;
+    margin: 5px;
+}
+
+.central input{
+    width: 250px;
+    height: 25px;
+    border-radius: 2px;
+}
+
+.central input:focus{
+    background: rgb(212, 212, 212);
+}
+
+.central button{
+    width: 100px;
+    height: 25px;
+    margin: 10px;
+    background: rgb(115, 230, 115);
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.central button:hover{
+    background: linear-gradient(90deg, red,rgb(44, 44, 44));
+    color: white;
+}
+
+
