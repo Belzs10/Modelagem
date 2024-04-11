@@ -20,8 +20,8 @@ body{
 
 .central{
     background: rgba(255, 255, 255, 0.726);
-    height: 35vh;
-    width: 40vh;
+    height: 50vh;
+    width: 45vh;
     border-radius: 3vh;
     box-shadow: 5px 3px 25px rgb(185, 173, 139);
     display: flex;
